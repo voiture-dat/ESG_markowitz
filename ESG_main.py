@@ -29,7 +29,7 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 mpl.rcParams['figure.dpi'] = 300 # enhance visibility
 warnings.filterwarnings('ignore')
-ek.set_app_key('040599c845884dcf85bd213c64ca8ddcca9cf3dd') # Plug in EIKON Data API key here, can be obtained from software.pcl@wiwi.uni-tuebingen.de
+ek.set_app_key('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX') # Plug in EIKON Data API key here, can be obtained from software.pcl@wiwi.uni-tuebingen.de
 # Until end of january, my key can be used as well, but an active instance of Refinitiv Workspace needs to be running on the same machine
 ###################################################################################################
 tic = datetime.now()
